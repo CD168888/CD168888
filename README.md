@@ -1,13 +1,18 @@
-### Hey，I’m 渡<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey，I’m 渡 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🎓 大三软件工程在读  热爱Java的小白
-- 💻  努力学习Java方向  
-- 🔍 喜欢探索各种新知识，热衷技术钻研  
-- 🌱 未来希望能开发出让大家喜欢、真正有用的程序
-- ⚽   热爱运动，积极参加各类比赛  
-- 💬 欢迎交流编程、学习、生活等话题  
 
-**CSDN 博客** | 30+ 篇技术文章, 2W+ 访问 | [CSDN]([大佐不会说日语～-CSDN博客](https://blog.csdn.net/weixin_74224250?type=blog)) 
+<table>
+<tr>
+<td valign="top"  width="50%">
+
+- 😀 大三软件工程在读，Java语言爱好者，对代码满怀热忱
+- 💻 专注于Java技术深耕，积极探索相关领域
+- 🔍 痴迷新技术探索，尤其热衷于AIGC与各类AI模型研究
+- 🌱 期望未来能打造出广受欢迎且实用的程序作品
+- 🏆 获全国大学生数学建模等多项竞赛奖项，技术能力受认可
+- 💬 欢迎就编程、学习及生活等话题展开交流
+
+**CSDN 博客** | 30+ 篇技术文章, 2W+ 访问 | [CSDN](https://blog.csdn.net/weixin_74224250?type=blog) 
 
   **「Keep Coding, Keep Curious!」** ❤️
 </td>
@@ -18,8 +23,6 @@
 </table>
 
 <hr/>
-
-
 
 ## 🛠️ 略知一二
 
@@ -38,30 +41,9 @@
 
 </p>
 
----
-
-
-
-## 🏆 **my github stats:**
-
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KKKK1723&theme=default)|![KKKK1723's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KKKK1723&layout=compact&hide_border=true&langs_count=10&theme=default)|
-|-|-|
-
-
-<table>
-<tr>
-<td valign="top"  width="50%">
-
-#### 🐍 contributions
-
-![](https://raw.githubusercontent.com/KKKK1723/KKKK1723/output/docker/github-contribution-grid-snake.gif)
-
-
-
-</td>
-</tr>
 </table>
 
 📧 **联系我**: 
  - 邮箱 `2364728886@qq.com`
  - 微信 `CD001688888`
+
