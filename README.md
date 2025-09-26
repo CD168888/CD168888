@@ -92,7 +92,7 @@
 [![Email](https://img.shields.io/badge/Email-2364728886@qq.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:2364728886@qq.com)
 [![WeChat](https://img.shields.io/badge/WeChat-CD001688888-07C160?style=flat-square&logo=wechat&logoColor=white)](#)
 [![CSDN](https://img.shields.io/badge/CSDN-技术博客-FC5531?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/weixin_74224250?type=blog)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)]([https://github.com/yourusername](https://github.com/CD168888))
 
 </div>
 
@@ -101,3 +101,4 @@
   ⭐️ **感谢你的关注！欢迎 Star 我的项目** ⭐️
   
 </div>
+
